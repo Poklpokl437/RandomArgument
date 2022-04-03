@@ -1,0 +1,10 @@
+name: RandomArgument # the plugins name as it should appear in the plugin list /pl
+version: 1.0 # the plugin's version
+author: Poklpokl
+main: com.vestriamc.RandomArgument.RandomArgument
+api-version: 1.18
+commands:
+  randomitem:
+    description: randomly give an item
+    permission: randomargument.admin
+    usage: /randomitem

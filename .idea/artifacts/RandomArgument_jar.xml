@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RandomArgument:jar">
+    <output-path>$PROJECT_DIR$/../LocalhostServer/plugins</output-path>
+    <root id="archive" name="RandomArgument.jar">
+      <element id="module-output" name="RandomArgument.main" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
