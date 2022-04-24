@@ -46,6 +46,7 @@ public class CommandRandomItemWithRarity implements CommandExecutor {
                 System.out.println(command);
                 break;
             default:
+                sender.sendMessage(Component.text("Invalid rarity", TextColor.color(0xFF0000)));
                 break;
         }
         return true;
