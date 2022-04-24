@@ -26,22 +26,22 @@ public class CommandRandomItemWithRarity implements CommandExecutor {
         switch(args[0])
         {
             case "common":
-                command = "items give " + args[0] + " construct " + returnARandomElement(RandomArgument.commonItems) + " drop";
+                command = "items give " + sender.getName() + " construct " + returnARandomElement(RandomArgument.commonItems) + " drop";
                 RandomArgument.PLUGIN.getServer().dispatchCommand(RandomArgument.PLUGIN.getServer().getConsoleSender(),command);
                 System.out.println(command);
                 break;
             case "rare":
-                command = "items give " + args[0] + " construct " + returnARandomElement(RandomArgument.rareItems) + " drop";
+                command = "items give " + sender.getName() + " construct " + returnARandomElement(RandomArgument.rareItems) + " drop";
                 RandomArgument.PLUGIN.getServer().dispatchCommand(RandomArgument.PLUGIN.getServer().getConsoleSender(),command);
                 System.out.println(command);
                 break;
             case "legendary":
-                command = "items give " + args[0] + " construct " + returnARandomElement(RandomArgument.legendaryItems) + " drop";
+                command = "items give " + sender.getName() + " construct " + returnARandomElement(RandomArgument.legendaryItems) + " drop";
                 RandomArgument.PLUGIN.getServer().dispatchCommand(RandomArgument.PLUGIN.getServer().getConsoleSender(),command);
                 System.out.println(command);
                 break;
             case "vestrian":
-                command = "items give " + args[0] + " construct " + returnARandomElement(RandomArgument.vestrianItems) + " drop";
+                command = "items give " + sender.getName() + " construct " + returnARandomElement(RandomArgument.vestrianItems) + " drop";
                 RandomArgument.PLUGIN.getServer().dispatchCommand(RandomArgument.PLUGIN.getServer().getConsoleSender(),command);
                 System.out.println(command);
                 break;
