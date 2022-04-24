@@ -33,21 +33,25 @@ public class CommandRandomitem implements CommandExecutor {
         {
             String command = "items give " + args[0] + " construct " + returnARandomElement(RandomArgument.vestrianItems) + " drop";
             RandomArgument.PLUGIN.getServer().dispatchCommand(RandomArgument.PLUGIN.getServer().getConsoleSender(),command);
+            System.out.println(command);
         }
         else if(randomNumber < RandomArgument.LEGENDARY_CHANCE + RandomArgument.VESTRIAN_CHANCE)
         {
             String command = "items give " + args[0] + " construct " + returnARandomElement(RandomArgument.legendaryItems) + " drop";
             RandomArgument.PLUGIN.getServer().dispatchCommand(RandomArgument.PLUGIN.getServer().getConsoleSender(),command);
+            System.out.println(command);
         }
         else if(randomNumber < RandomArgument.RARE_CHANCE + RandomArgument.LEGENDARY_CHANCE + RandomArgument.VESTRIAN_CHANCE)
         {
             String command = "items give " + args[0] + " construct " + returnARandomElement(RandomArgument.rareItems) + " drop";
             RandomArgument.PLUGIN.getServer().dispatchCommand(RandomArgument.PLUGIN.getServer().getConsoleSender(),command);
+            System.out.println(command);
         }
         else
         {
             String command = "items give " + args[0] + " construct " + returnARandomElement(RandomArgument.commonItems) + " drop";
             RandomArgument.PLUGIN.getServer().dispatchCommand(RandomArgument.PLUGIN.getServer().getConsoleSender(),command);
+            System.out.println(command);
         }
         return true;
     }

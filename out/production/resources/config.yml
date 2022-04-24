@@ -1,175 +1,175 @@
-VestrianChance: 15.2
-LegendaryChance: 26.2
-RareChance: 10.2
+VestrianChance: 10.2
+LegendaryChance: 20.2
+RareChance: 30.2
 CommonItems:
-  - common fire_walker_helmet
-  - common fire_walker_tunic
-  - common fire_walker_leggings
-  - common fire_walker_boots
-  - common fire_walker_elytra
-  - common blessed_helm
-  - common blessed_chest
-  - common blessed_leggings
-  - common blessed_boots
-  - common blessed_elytra
-  - common laborer_helm
-  - common laborer_chest
-  - common laborer_leggings
-  - common laborer_boots
-  - common laborer_elytra
-  - common recruit_pick
-  - common recruit_axe
-  - common recruit_shovel
-  - common recruit_rod
-  - common recruit_hoe
-  - common reforged_pick
-  - common reforged_axe
-  - common reforged_shovel
-  - common reforged_rod
-  - common reforged_hoe
-  - common fortuna_pickaxe
-  - common fortuna_axe
-  - common fortuna_shovel
-  - common fortuna_rod
-  - common fortuna_hoe
-  - common barbaric_falchion
-  - common barbaric_bow
-  - common barbaric_crossbow
-  - common barbaric_battlaxe
-  - common nova_sword
-  - common aurora_bow
-  - common eclipsed_crossbow
-  - common galactic_battleaxe
-  - common soldier's_sword
-  - common trooper's_bow
-  - common general's_crossbow
-  - common legionaire's_battleaxe
+  - common fire_walker fire_walker_helmet
+  - common fire_walker fire_walker_tunic
+  - common fire_walker fire_walker_leggings
+  - common fire_walker fire_walker_boots
+  - common fire_walker fire_walker_elytra
+  - common blessed blessed_helm
+  - common blessed blessed_chest
+  - common blessed blessed_leggings
+  - common blessed blessed_boots
+  - common blessed blessed_elytra
+  - common laborer laborer_helm
+  - common laborer laborer_chest
+  - common laborer laborer_leggings
+  - common laborer laborer_boots
+  - common laborer laborer_elytra
+  - common recruit recruit_pick
+  - common recruit recruit_axe
+  - common recruit recruit_shovel
+  - common recruit recruit_rod
+  - common recruit recruit_hoe
+  - common reforged reforged_pick
+  - common reforged reforged_axe
+  - common reforged reforged_shovel
+  - common reforged reforged_rod
+  - common reforged reforged_hoe
+  - common fortuna fortuna_pickaxe
+  - common fortuna fortuna_axe
+  - common fortuna fortuna_shovel
+  - common fortuna fortuna_rod
+  - common fortuna fortuna_hoe
+  - common barbaric barbaric_falchion
+  - common barbaric barbaric_bow
+  - common barbaric barbaric_crossbow
+  - common barbaric barbaric_battlaxe
+  - common cosmic nova_sword
+  - common cosmic aurora_bow
+  - common cosmic eclipsed_crossbow
+  - common cosmic galactic_battleaxe
+  - common the_legion soldier's_sword
+  - common the_legion trooper's_bow
+  - common the_legion general's_crossbow
+  - common the_legion legionaire's_battleaxe
 RareItems:
-  - rare leviathan_helm
-  - rare leviathan_chest
-  - rare leviathan_leggings
-  - rare leviathan_boots
-  - rare leviathan_wings
-  - rare phoenix_helm
-  - rare phoenix_plate
-  - rare phoenix_leggings
-  - rare phoenix_claws
-  - rare phoenix_wings
-  - rare mistwalker_helm
-  - rare mistwalker_chest
-  - rare mistwalker_leggings
-  - rare mistwalker_boots
-  - rare mistwalker_elytra
-  - rare abyssal_pick
-  - rare abyssal_axe
-  - rare abyssal_shovel
-  - rare abyssal_rod
-  - rare abyssal_hoe
-  - rare gorgon_pick
-  - rare colchian_axe
-  - rare cyclops_shovel
-  - rare siren_rod
-  - rare dryad_hoe
-  - rare prophet_pick
-  - rare prophet_axe
-  - rare prophet_shovel
-  - rare prophet_rod
-  - rare prophet_hoe
-  - rare sword_of_brimstone
-  - rare bow_of_brimstone
-  - rare crossbow_of_brimstone
-  - rare battleaxe_of_brimstone
-  - rare sword_of_peleus
-  - rare philoctetes'_bow
-  - rare crossbow_of_hephaestus
-  - rare the_labrys
-  - rare accursed_sword
-  - rare accursed_crossbow
-  - rare accursed_battleaxe
-  - rare accursed_bow
+  - rare leviathan leviathan_helm
+  - rare leviathan leviathan_chest
+  - rare leviathan leviathan_leggings
+  - rare leviathan leviathan_boots
+  - rare leviathan leviathan_wings
+  - rare phoenix phoenix_helm
+  - rare phoenix phoenix_plate
+  - rare phoenix phoenix_leggings
+  - rare phoenix phoenix_claws
+  - rare phoenix phoenix_wings
+  - rare mistwalker mistwalker_helm
+  - rare mistwalker mistwalker_chest
+  - rare mistwalker mistwalker_leggings
+  - rare mistwalker mistwalker_boots
+  - rare mistwalker mistwalker_elytra
+  - rare abyssal abyssal_pick
+  - rare abyssal abyssal_axe
+  - rare abyssal abyssal_shovel
+  - rare abyssal abyssal_rod
+  - rare abyssal abyssal_hoe
+  - rare legendary_monsters gorgon_pick
+  - rare legendary_monsters colchian_axe
+  - rare legendary_monsters cyclops_shovel
+  - rare legendary_monsters siren_rod
+  - rare legendary_monsters dryad_hoe
+  - rare prophet prophet_pick
+  - rare prophet prophet_axe
+  - rare prophet prophet_shovel
+  - rare prophet prophet_rod
+  - rare prophet prophet_hoe
+  - rare brimstone sword_of_brimstone
+  - rare brimstone bow_of_brimstone
+  - rare brimstone crossbow_of_brimstone
+  - rare brimstone battleaxe_of_brimstone
+  - rare hero's_weapons sword_of_peleus
+  - rare hero's_weapons philoctetes'_bow
+  - rare hero's_weapons crossbow_of_hephaestus
+  - rare hero's_weapons the_labrys
+  - rare accursed accursed_sword
+  - rare accursed accursed_crossbow
+  - rare accursed accursed_battleaxe
+  - rare accursed accursed_bow
 LegendaryItems:
-  - legendary leo's_mane
-  - legendary taurus'_chest
-  - legendary libra's_leggings
-  - legendary pisces'_fins
-  - legendary cosmic_wings
-  - legendary voidwalker_helm
-  - legendary voidwalker_chest
-  - legendary voidwalker_legs
-  - legendary voidwalker_boots
-  - legendary voidwalker_wings
-  - legendary helm_of_water
-  - legendary chest_of_earth
-  - legendary legs_of_fire
-  - legendary boots_of_air
-  - legendary wings_of_space
-  - legendary mercury_pick
-  - legendary mercury_axe
-  - legendary mercury_shovel
-  - legendary mercury_rod
-  - legendary mercury_hoe
-  - legendary eternal_pic
-  - legendary eternal_axe
-  - legendary eternal_shovel
-  - legendary eternal_rod
-  - legendary eternal_hoe
-  - legendary sagittarius'_pick
-  - legendary capricorn's_axe
-  - legendary virgo's_shovel
-  - legendary cancer's_claws
-  - legendary aquarius'_hoe
-  - legendary aries'_sword
-  - legendary scorpio's_stinger
-  - legendary gemini's_bow
-  - legendary zodiac's_battleaxe
-  - legendary delirium_sword
-  - legendary delirium_bow
-  - legendary delirium_crossbow
-  - legendary delirium_battleaxe
-  - legendary traveler's_sword
-  - legendary traveler's_bow
-  - legendary traveler's_crossbow
-  - legendary traveler's_battleaxe
+  - legendary zodiac's_armor leo's_mane
+  - legendary zodiac's_armor taurus'_chest
+  - legendary zodiac's_armor libra's_leggings
+  - legendary zodiac's_armor pisces'_fins
+  - legendary zodiac's_armor cosmic_wings
+  - legendary voidwalker voidwalker_helm
+  - legendary voidwalker voidwalker_chest
+  - legendary voidwalker voidwalker_legs
+  - legendary voidwalker voidwalker_boots
+  - legendary voidwalker voidwalker_wings
+  - legendary elemental helm_of_water
+  - legendary elemental chest_of_earth
+  - legendary elemental legs_of_fire
+  - legendary elemental boots_of_air
+  - legendary elemental wings_of_space
+  - legendary mercury mercury_pick
+  - legendary mercury mercury_axe
+  - legendary mercury mercury_shovel
+  - legendary mercury mercury_rod
+  - legendary mercury mercury_hoe
+  - legendary eternal eternal_pic
+  - legendary eternal eternal_axe
+  - legendary eternal eternal_shovel
+  - legendary eternal eternal_rod
+  - legendary eternal eternal_hoe
+  - legendary zodiac's_tools sagittarius'_pick
+  - legendary zodiac's_tools capricorn's_axe
+  - legendary zodiac's_tools virgo's_shovel
+  - legendary zodiac's_tools cancer's_claws
+  - legendary zodiac's_tools aquarius'_hoe
+  - legendary zodiac's_weapons aries'_sword
+  - legendary zodiac's_weapons scorpio's_stinger
+  - legendary zodiac's_weapons gemini's_bow
+  - legendary zodiac's_weapons zodiac's_battleaxe
+  - legendary delirium delirium_sword
+  - legendary delirium delirium_bow
+  - legendary delirium delirium_crossbow
+  - legendary delirium delirium_battleaxe
+  - legendary traveler's_weapons traveler's_sword
+  - legendary traveler's_weapons traveler's_bow
+  - legendary traveler's_weapons traveler's_crossbow
+  - legendary traveler's_weapons traveler's_battleaxe
 VestrianItems:
-  - vestrian crown_of_maiele
-  - vestrian tunic_of_amrynn
-  - vestrian pants_of_tanyth
-  - vestrian boots_of_elyon
-  - vestrian wings_of_cyran
-  - vestrian leviathan_gills
-  - vestrian minotaur_chest
-  - vestrian behemoth_leggings
-  - vestrian goliath_boots
-  - vestrian wings_of_the_beasts
-  - vestrian helm_of_darkness
-  - vestrian chest_of_the_warrior
-  - vestrian leggings_of_the_storm
-  - vestrian boots_of_the_sea
-  - vestrian chariot_of_the_sun
-  - vestrian euphoric_pick
-  - vestrian euphoric_axe
-  - vestrian euphoric_shovel
-  - vestrian euphoric_rod
-  - vestrian euphoric_hoe
-  - vestrian wilds_pick
-  - vestrian wilds_axe
-  - vestrian wilds_shovel
-  - vestrian wilds_rod
-  - vestrian wilds_hoe
-  - vestrian pick_of_khuguhm
-  - vestrian axe_of_dhololuhr
-  - vestrian shovel_of_nomam
-  - vestrian rod_of_kaledur
-  - vestrian hoe_of_dhomtirm
-  - vestrian starfall_sword
-  - vestrian starfall_bow
-  - vestrian starfall_crossbow
-  - vestrian starfall_battleaxe
-  - vestrian firestorm_sword
-  - vestrian hurricane_bow
-  - vestrian cyclone_crossbow
-  - vestrian typhoon_battleaxe
-  - vestrian harbinger's_sword
-  - vestrian harbinger's_bow
-  - vestrian harbinger's_crossbow
-  - vestrian harbinger's_battleaxe
+  - vestrian elven_blessings crown_of_maiele
+  - vestrian elven_blessings tunic_of_amrynn
+  - vestrian elven_blessings pants_of_tanyth
+  - vestrian elven_blessings boots_of_elyon
+  - vestrian elven_blessings wings_of_cyran
+  - vestrian beasts_of_old leviathan_gills
+  - vestrian beasts_of_old minotaur_chest
+  - vestrian beasts_of_old behemoth_leggings
+  - vestrian beasts_of_old goliath_boots
+  - vestrian beasts_of_old wings_of_the_beasts
+  - vestrian the_olympians helm_of_darkness
+  - vestrian the_olympians chest_of_the_warrior
+  - vestrian the_olympians leggings_of_the_storm
+  - vestrian the_olympians boots_of_the_sea
+  - vestrian the_olympians chariot_of_the_sun
+  - vestrian euphoric euphoric_pick
+  - vestrian euphoric euphoric_axe
+  - vestrian euphoric euphoric_shovel
+  - vestrian euphoric euphoric_rod
+  - vestrian euphoric euphoric_hoe
+  - vestrian the_wilds wilds_pick
+  - vestrian the_wilds wilds_axe
+  - vestrian the_wilds wilds_shovel
+  - vestrian the_wilds wilds_rod
+  - vestrian the_wilds wilds_hoe
+  - vestrian dwarven_legacy pick_of_khuguhm
+  - vestrian dwarven_legacy axe_of_dhololuhr
+  - vestrian dwarven_legacy shovel_of_nomam
+  - vestrian dwarven_legacy rod_of_kaledur
+  - vestrian dwarven_legacy hoe_of_dhomtirm
+  - vestrian starfall starfall_sword
+  - vestrian starfall starfall_bow
+  - vestrian starfall starfall_crossbow
+  - vestrian starfall starfall_battleaxe
+  - vestrian the_storms firestorm_sword
+  - vestrian the_storms hurricane_bow
+  - vestrian the_storms cyclone_crossbow
+  - vestrian the_storms typhoon_battleaxe
+  - vestrian harbinger harbinger's_sword
+  - vestrian harbinger harbinger's_bow
+  - vestrian harbinger harbinger's_crossbow
+  - vestrian harbinger harbinger's_battleaxe

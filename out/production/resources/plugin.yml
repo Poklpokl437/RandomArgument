@@ -8,3 +8,7 @@ commands:
     description: randomly give an item
     permission: randomargument.admin
     usage: /randomitem
+  itemsrandom:
+    description: randomly give an item
+    permission: randomargument.admin
+    usage: /itemsrandom

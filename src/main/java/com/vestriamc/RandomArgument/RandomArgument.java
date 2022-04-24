@@ -1,5 +1,6 @@
 package com.vestriamc.RandomArgument;
 
+import com.vestriamc.RandomArgument.commands.CommandRandomItemWithRarity;
 import com.vestriamc.RandomArgument.commands.CommandRandomitem;
 import org.bukkit.plugin.Plugin;
 import org.bukkit.plugin.PluginManager;
@@ -24,6 +25,7 @@ public final class RandomArgument extends JavaPlugin {
         PluginManager pm = this.getServer().getPluginManager();
         saveDefaultConfig();
         getCommand("randomitem").setExecutor(new CommandRandomitem());
+        getCommand("itemsrandom").setExecutor(new CommandRandomItemWithRarity());
         VESTRIAN_CHANCE = Float.parseFloat(getConfig().getString("VestrianChance"));
         LEGENDARY_CHANCE = Float.parseFloat(getConfig().getString("LegendaryChance"));
         RARE_CHANCE = Float.parseFloat(getConfig().getString("RareChance"));
